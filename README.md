@@ -63,4 +63,10 @@ This project demonstrates an end-to-end data analysis workflow on OLA ride booki
 - Delivered interactive dashboards to stakeholders
 
 ![Screenshot (92)](https://github.com/user-attachments/assets/14884e4c-d5dd-4035-b5d2-8961abfc15fa)
+![Screenshot (89)](https://github.com/user-attachments/assets/3a630437-7c32-428d-b686-325c101b9184)
+
+![Uploading Screenshot (91).png…]()
+![Screenshot (90)](https://github.com/user-attachments/assets/9d80a23f-1ab8-45fe-854f-32f261cf9358)
+
+
 
