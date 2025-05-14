@@ -62,4 +62,5 @@ This project demonstrates an end-to-end data analysis workflow on OLA ride booki
 - Enhanced visibility into revenue trends and ride success metrics
 - Delivered interactive dashboards to stakeholders
 
+![Screenshot (92)](https://github.com/user-attachments/assets/14884e4c-d5dd-4035-b5d2-8961abfc15fa)
 
